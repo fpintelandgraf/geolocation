@@ -2,31 +2,29 @@
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1509699273000,
             "changeTime": 1509699273000,
             "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
-            "isWorkspace": false,
-            "isArtifactRoot": true
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1509699273000,
             "changeTime": 1509699273000,
             "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -39,24 +37,21 @@
             "size": 340,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1509699273000,
+            "changeTime": 1509699273000,
+            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
             "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1509700781000,
-            "changeTime": 1509700781000,
-            "contentHash": "9326376ac7a83fa55b6297fd323171c02c6fa6d0",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -76,316 +71,274 @@
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1509658524000,
             "changeTime": 1509658524000,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1509698660000,
             "changeTime": 1509698660000,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1509698808000,
             "changeTime": 1509698808000,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1509698660000,
             "changeTime": 1509698660000,
             "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1509699306000,
             "changeTime": 1509699306000,
             "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1509699127000,
+            "changeTime": 1509699127000,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1509701475000,
-            "changeTime": 1509701475000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1509698954000,
             "changeTime": 1509698954000,
             "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 115,
             "modifiedTime": 1509699305000,
             "changeTime": 1509699306000,
             "contentHash": "afd32df358918354026afa0dcc55797cb27b2757",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1509698954000,
             "changeTime": 1509698954000,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1509698954000,
             "changeTime": 1509698954000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1509698954000,
             "changeTime": 1509698954000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -398,9 +351,7 @@
             "size": 267,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
@@ -413,9 +364,7 @@
             "size": 4457,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
         }
     ],
     [
@@ -428,9 +377,7 @@
             "size": 4797,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
         }
     ],
     [
@@ -443,9 +390,7 @@
             "size": 4461,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
         }
     ],
     [
@@ -458,9 +403,7 @@
             "size": 17256,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4"
         }
     ],
     [
@@ -473,9 +416,7 @@
             "size": 102,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
@@ -488,219 +429,7 @@
             "size": 204,
             "modifiedTime": 1509700550000,
             "changeTime": 1509700550000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1509701048000,
-            "changeTime": 1509701048000,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 342,
-            "modifiedTime": 1509700925000,
-            "changeTime": 1509700925000,
-            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1509700781000,
-            "changeTime": 1509700781000,
-            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1509701047000,
-            "changeTime": 1509701048000,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1509700923000,
-            "changeTime": 1509700923000,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1509700781000,
-            "changeTime": 1509700781000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1509700781000,
-            "changeTime": 1509700781000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1509700724000,
-            "changeTime": 1509700724000,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1509700926000,
-            "changeTime": 1509700926000,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1509700627000,
-            "changeTime": 1509700627000,
-            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 171,
-            "modifiedTime": 1509700724000,
-            "changeTime": 1509700724000,
-            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1509700627000,
-            "changeTime": 1509700627000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1509700627000,
-            "changeTime": 1509700627000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/fpintelandgraf/Documents/Repositories/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1509700627000,
-            "changeTime": 1509700627000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
